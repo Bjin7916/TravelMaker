@@ -12,10 +12,9 @@
 <br>
 <br>
 <h2>2. 기대 효과</h2>
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaVJgTO2sjSnTZYawWbxkJa6UkbrZY_gqjw5ui9lFQp4acAz_3-sO26Mc3h7CQIH2cAL88lQfhumh19aLIpsXTJTUAuldQ5noCgwQj0OmHMB4X4ets6oC3Fd1IqMZqkqZlB1fbuCme8P_1a0mP1yuiU=w1057-h574-s-no?authuser=0" style = "width: 80%; height : 480">
-<h4></h4>
-<h4></h2>
-<h4></h2>
+<h4>각 지역 축제 신뢰성 상승 및 개선</h4>
+<h4>국내 관광 활성화에 기여하여 내수 촉진 가능성의 상승</h2>
+<h4>투명한 정보 제공으로 선의의 경쟁을 부추기며 서비스 질 향상 가능성 상승</h2>
 <h4></h4>
 
 <br>
