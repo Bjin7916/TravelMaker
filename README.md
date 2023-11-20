@@ -44,6 +44,7 @@
 
 <br>
 <h2>4. ERD</h2>
+<img src="https://lh3.googleusercontent.com/9IvCTei0aSLynpjg9pJqtJ74MJxIZ2MwUuHYtgS-LW4jmAdjNJ03MH9aVZ-S_l1IHaLb08wLyFPJyrqHzuG3RYkyVJsVKvQSwHQN-yy77OLB3Nf10TVl3QFEXPB_ZsB1UGnx1bzrVbnlvLlvis8iLdEGGwfsAeqLUsCsq7HONtKWJBE2-92AuBuct4bMmxKjMS14tojbOb63jJBQY87m9RHZytzjHWhCEt3QEljMZ1KSQ-4HgJRKo4BkG2EeVvpET8u-skL43rTBHCqiFHM3kj_PrAMlxcs0qUDK41RdB7Kz2IEnAlEZKjMptxsEAhZ8Tk69oXdjVtjJky68R8T3VGgPeDuLD3zVE08ZRjyzPtLBiudjR_qh_cYhOvKi79UDJYGS8LkJDkPlMwpCO6pTc27h_1aQ5kCzJTaF4gF2x6UVmQogxAMWTCAg2rCGPg5Ua64OFKW6yAATd7crLaYJH5lLX8PQSe7fHKumAKjDjMz3srl9-ULwr_YQ-sBbMpIt9JvGlgszaNJy0AhMRn67p7GMiZk03ZQ7wPzudMSxToBE3Ujy-TH6JLYFc2tbyR9K3GHfvmA-kdyY3QxIuQZgXC3owabl0EKiaRqjFcvKqVu6NTdj9abPBD4tkJJJo55wMLEbtKejdgQObUKO2OpJdAEI8tnkvluTYU-Heq4FSpemXJ28oaHXKCRXm_AS4KnyenFt0E7FrnfOeKm_N4etZudItlaGaTrmyhHN5nCVKk2boMrGrjPL20FOe-5RmTiM422JIo6iPPk4j6IWC00vbQEnmwYTYvTzwtG2kRfvfCp-6yE_AHWewp6GROXvldRKdKTW05l4BIIgHcq_uChoEuxqNdULnJuu9MLk2WYFNOT4S05NKI5r98NyQ24NzILGh464ml0XQ-yiIdQ2KJ9vHRbSNzVcYfh3CHcKjiw7SsHADSyKN9UO84CPGKGKX13JcBvctzTTUfeF9mu-45tpr9IklFy-6IWLZbkgCEe88APpcpr1Ji-Z_q8h127hTzT-QgPp4rFPbdvLII6UEtRoD8Dc_Kc=w838-h920-s-no?authuser=0">
 
 
 <h2>5. 담당 업무</h2>
@@ -72,7 +73,7 @@
 
 <br>
 5-2 백엔드<br>
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaUTWHVFl3ue12eBNh1B9PeRu0VEBcKtYOPRxR97aajINV2i3nR0oPVbUGT1yN-njM9tdBr_4hb6IM_VY1-2upwZjHb5ODVkHc22C2BSwOXkPwkRG6dq1ZSpYaea6Lg5ZKk5UbPg3iIp9LQWz3rcxHrg=w1795-h560-s-no?authuser=0" style = "width: 90%;">
+
 
 
 ▶ 회원가입
@@ -81,7 +82,7 @@
 - 조건 충족 시 회원가입
 - 카카오 API를 이용한 간편 회원가입
 - 네이버 API를 이용한 간편 회원가입
-- - 구글 API를 이용한 간편 회원가입
+- 구글 API를 이용한 간편 회원가입
 
 ▶ 커뮤니티 게시판
 - 기본적인 CRUD 구현
