@@ -32,7 +32,6 @@
         - Oracle<br>
         - Visual Studio Code<br>
         - DBeaver<br>
-        - Sourcetree<br>
         - git, github<br>
         - JSON<br>
         - Ajax<br>
@@ -45,13 +44,13 @@
 
 <br>
 <h2>4. ERD</h2>
-<img src="https://lh3.googleusercontent.com/9IvCTei0aSLynpjg9pJqtJ74MJxIZ2MwUuHYtgS-LW4jmAdjNJ03MH9aVZ-S_l1IHaLb08wLyFPJyrqHzuG3RYkyVJsVKvQSwHQN-yy77OLB3Nf10TVl3QFEXPB_ZsB1UGnx1bzrVbnlvLlvis8iLdEGGwfsAeqLUsCsq7HONtKWJBE2-92AuBuct4bMmxKjMS14tojbOb63jJBQY87m9RHZytzjHWhCEt3QEljMZ1KSQ-4HgJRKo4BkG2EeVvpET8u-skL43rTBHCqiFHM3kj_PrAMlxcs0qUDK41RdB7Kz2IEnAlEZKjMptxsEAhZ8Tk69oXdjVtjJky68R8T3VGgPeDuLD3zVE08ZRjyzPtLBiudjR_qh_cYhOvKi79UDJYGS8LkJDkPlMwpCO6pTc27h_1aQ5kCzJTaF4gF2x6UVmQogxAMWTCAg2rCGPg5Ua64OFKW6yAATd7crLaYJH5lLX8PQSe7fHKumAKjDjMz3srl9-ULwr_YQ-sBbMpIt9JvGlgszaNJy0AhMRn67p7GMiZk03ZQ7wPzudMSxToBE3Ujy-TH6JLYFc2tbyR9K3GHfvmA-kdyY3QxIuQZgXC3owabl0EKiaRqjFcvKqVu6NTdj9abPBD4tkJJJo55wMLEbtKejdgQObUKO2OpJdAEI8tnkvluTYU-Heq4FSpemXJ28oaHXKCRXm_AS4KnyenFt0E7FrnfOeKm_N4etZudItlaGaTrmyhHN5nCVKk2boMrGrjPL20FOe-5RmTiM422JIo6iPPk4j6IWC00vbQEnmwYTYvTzwtG2kRfvfCp-6yE_AHWewp6GROXvldRKdKTW05l4BIIgHcq_uChoEuxqNdULnJuu9MLk2WYFNOT4S05NKI5r98NyQ24NzILGh464ml0XQ-yiIdQ2KJ9vHRbSNzVcYfh3CHcKjiw7SsHADSyKN9UO84CPGKGKX13JcBvctzTTUfeF9mu-45tpr9IklFy-6IWLZbkgCEe88APpcpr1Ji-Z_q8h127hTzT-QgPp4rFPbdvLII6UEtRoD8Dc_Kc=w838-h920-s-no?authuser=0">
+
 
 <h2>5. 담당 업무</h2>
 5-1 퍼블리싱<br>
-<img src="https://lh3.googleusercontent.com/pw/AJFCJaUWOeK6hHWAPLkiIwvD_gfWYgr7G0ADXyOtw3hcy9-E8TXgHh6_RKOHXxjS9LtaR4-jvG8y2zZH_Sc1Qm4TjfPBIIdHc86nqwi3cMHdgHcM2oa0BTuVDp6hY4ONY1__dKIwtvhSwSxoNumD1eMnpTjs=w1212-h501-s-no?authuser=0" style = "width: 90%;">
 
-▶ 관리자 페이지 / 테마 / shop
+
+▶ 커뮤니티 페이지 / shop
 
 - 마이페이지 메인
 - 프로필 설정
@@ -83,23 +82,6 @@
 - 카카오 API를 이용한 간편 회원가입
 - 네이버 API를 이용한 간편 회원가입
 - - 구글 API를 이용한 간편 회원가입
-
-▶ 로그인
-- 아이디, 비밀번호 DB 비교 로그인 기능 구현
-- 카카오 API를 이용한 간편 로그인
-- 네이버 API를 이용한 간편 로그인
-- 구글 API를 이용한 간편 로그인
-- 로그아웃 기능 구현
-
-▶ 아이디 찾기
-- 사용자가 입력한 이메일과 DB 비교
-- 정보 일치 여부 전달
-
-
-▶ 비밀번호 찾기
-- 사용자가 입력한 이메일과 DB 비교
-- 정보 일치할 경우 MAIL API 이용하여 비밀번호 변경 링크 발송
-- 비밀번호 변경 구현
 
 ▶ 커뮤니티 게시판
 - 기본적인 CRUD 구현
