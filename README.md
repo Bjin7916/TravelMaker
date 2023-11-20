@@ -3,9 +3,9 @@
 
 
 <h2>1. 기획 배경</h2>
-<img src="https://lh3.googleusercontent.com/IoldFYjyY0odxUx4qDb5fLm7p1zPwjDMtRepQyxiDF7ScvHpy039qkerto1UimfR-eM22vat3N32A4wNd3kGzM5CtgA1nD5FZF20m4WIa2Ls1d4SoSX-bCdMTKHuL_7BVPd5KSMY5bq8_b6XRb_5tIs9j_JEuXLK5bCXiCYkKoYw9nXEC4SgFGwkBIHbWO6oCyw-SvTbdSCNXwozU1CcGTySaxIr4AMXcsCqtKk0nLN8P2z_0HGqpc3Cn2WNrdUwo3CWZPl5nPDDnxTAIMnHeywkfh6HLBDtabPvSVcl7VeVgq4RJUhQTFM2iOQrYOgn3lJi9xhb_wXH2SJuZ971T8ZrVWrJMF8FnMitcyE0VBiQFLVAI8PBTmS3OulAl5D2m11zRXO_uAnoDvgQIr8HNuk69jhJFaG91WfCUni_L3Ak_bLiEPzxBCLPjDyv16i0Nf2BTF4TGZiyrjyY6en-oX9c2AyWz4rgLpLvf8M7cXQ-PTLo25_Zx6x2zB4gJYob7KJ9ebk46-KAgOUVsOrWanmCn3VUdbblNQvl_gZkXRSWLWhOx1Eqml4eDL0-85I4xMOTM17gdAmKhipW_npKuaCAqxVZWHlkB_lIlY--GTLDPIAwJFw8hZSol9IHOTASNJTsIYdLYa5nupH6anjena-j1cISITnaheXZ9N87rJtV-wi4VYWrKMxKHSVCpSUH08ePFBncvydKhCr3T6IVn-RqfPzeuY3Q8fkTbdJqaLuUmapjtXgjODHqjtLIuzzp9LlDbTmgTuSc6ag0pdhpmM-kcAx3vIG1RnLOh8XHyI6CtcC0kT52ceRC7trWmaRzpkqYdLBr9MKwN6a1zCt9bunxQRojXF5hESTUhePk-3ZWiJV2YSMpkQiGjV5OYp0DSsi2Bi0H1Db5SPc4DOvF28RZ6lVlwlYZaFx8ftslP9OKig7KAObG9ESCcsvNpL39HoXJ7b8tyPbLYuEkFrMcKEIABxyP4cYlaCumGEtfMULaFDRqnylbZbmpJJF_VKc9y9EvkDCqTsOAQeCPnX4ll0_mzJU=w1495-h748-s-no?authuser=0"/>
-해가 갈수록 학령인구 감소가 되고 있다. <strong>지방대는 감축 정원이 88%</strong>이다.
-대학간 경쟁률 격차도 심해져간다. <strong>수도권 비수도권 대학 간 경쟁률 격차는 수도권이 13.95 대 1 이며 비수도권은 경쟁률이 6.04 대 1</strong>이다
+
+국내 여행지에 대한 소비자의 <strong>부정적인 인식</strong>
+국내 유명 여행지<strong> 바가지 요금 및 부족한 서비스 질</strong>에 대한 사회적 이슈
 
 </div>
 
