@@ -95,6 +95,7 @@ REST API 방식에 대한 이해도가 부족하여 컨트롤러와 뷰단 사�
 
 <h3>6-2. 문제를 해결했던 부분</h3>
 <h4>📌</h4><br>
+
 🌩문제 상황🌩<br>
 <br><br>
 🚨문제 원인🚨 <br>
@@ -105,14 +106,7 @@ REST API 방식에 대한 이해도가 부족하여 컨트롤러와 뷰단 사�
 
 
 
-<h4>📌Mapper 매개변수</h4> <br>
-🌩문제 상황🌩<br>
- Mapper.xml과 Mapping 되는 Mapper Interface를 설정할 때 매개변수로 객체로 2개 받을 경우 param1, param2 라는 오류가 발생함<br><br>
-🚨문제 원인🚨 <br>
-Mapper Interface 매개변수 객체 2개 앞에 @Param("이름")과 Mapper.xml 파일에서 #{이름.필드명}을 작성하지 않아서 발생하였음 <br><br>
-🚀해결 방법🚀<br>
-Mapper Interface 매개변수 객체 2개 앞에 @Param("이름")을 각각 붙혀주고 Mapper.xml 파일에서 #{이름.필드명} 으로 접근해서 사용해서 해결 했음 
-<br><br><br>
+
 
 
 
